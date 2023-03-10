@@ -21,6 +21,11 @@
     <genre>Fantasy</genre>
   </book>
   <book>
+    <title>测试</title>
+    <author>程源</author>
+    <genre>中文</genre>
+  </book>
+  <book>
     <title>The Lord of the Rings</title>
     <author>J.R.R. Tolkien</author>
     <genre>Fantasy</genre>
