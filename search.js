@@ -46,6 +46,12 @@ function search() {
       titleCell.textContent = title;
       authorCell.textContent = author;
       genreCell.textContent = genre;
+      
+      console.log("搜索关键字：" + query);
+      console.log("书名：" + title);
+      console.log("作者：" + author);
+      console.log("类型：" + genre);
+
     }
   }
 }
