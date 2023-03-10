@@ -33,14 +33,8 @@ function search() {
     const author = book.getElementsByTagName("author")[0].textContent.trim().toLowerCase();
     const genre = book.getElementsByTagName("genre")[0].textContent.trim().toLowerCase();
 
-    // Convert Chinese characters to Pinyin
-    const titlePinyin = pinyin(title, { style: pinyin.STYLE_NORMAL }).join("").toLowerCase();
-    const authorPinyin = pinyin(author, { style: pinyin.STYLE_NORMAL }).join("").toLowerCase();
-    const genrePinyin = pinyin(genre, { style: pinyin.STYLE_NORMAL }).join("").toLowerCase();
-
     // Check if the book matches the search query
-    if (title.includes(query) || author.includes(query) || genre.includes(query) ||
-        titlePinyin.includes(query) || authorPinyin.includes(query) || genrePinyin.includes(query)) {
+    if (title.indexOf(query) > -1 || author.indexOf(query) > -1 || genre.indexOf(query) > -1) {
       // Create a new row in the table
       const row = tableBody.insertRow(-1);
 
@@ -49,9 +43,9 @@ function search() {
       const authorCell = row.insertCell(1);
       const genreCell = row.insertCell(2);
 
-      titleCell.textContent = title;
-      authorCell.textContent = author;
-      genreCell.textContent = genre;
+      titleCell.textContent = book.getElementsByTagName("title")[0].textContent.trim();
+      authorCell.textContent = book.getElementsByTagName("author")[0].textContent.trim();
+      genreCell.textContent = book.getElementsByTagName("genre")[0].textContent.trim();
     }
   }
 }
