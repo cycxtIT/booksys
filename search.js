@@ -19,7 +19,7 @@ const tableBody = table.getElementsByTagName("tbody")[0];
 // Search function to filter the book data and display the results in the table
 function search() {
   // Get the search query
-  const query = searchBox.value.toLowerCase();
+  const query = searchBox.value.trim().toLowerCase();
 
   // Clear the table body
   tableBody.innerHTML = "";
@@ -29,12 +29,18 @@ function search() {
     const book = books[i];
 
     // Get the book data
-    const title = book.getElementsByTagName("title")[0].textContent.toLowerCase();
-    const author = book.getElementsByTagName("author")[0].textContent.toLowerCase();
-    const genre = book.getElementsByTagName("genre")[0].textContent.toLowerCase();
+    const title = book.getElementsByTagName("title")[0].textContent.trim().toLowerCase();
+    const author = book.getElementsByTagName("author")[0].textContent.trim().toLowerCase();
+    const genre = book.getElementsByTagName("genre")[0].textContent.trim().toLowerCase();
+
+    // Convert Chinese characters to Pinyin
+    const titlePinyin = pinyin(title, { style: pinyin.STYLE_NORMAL }).join("").toLowerCase();
+    const authorPinyin = pinyin(author, { style: pinyin.STYLE_NORMAL }).join("").toLowerCase();
+    const genrePinyin = pinyin(genre, { style: pinyin.STYLE_NORMAL }).join("").toLowerCase();
 
     // Check if the book matches the search query
-    if (title.includes(query) || author.includes(query) || genre.includes(query)) {
+    if (title.includes(query) || author.includes(query) || genre.includes(query) ||
+        titlePinyin.includes(query) || authorPinyin.includes(query) || genrePinyin.includes(query)) {
       // Create a new row in the table
       const row = tableBody.insertRow(-1);
 
@@ -46,12 +52,6 @@ function search() {
       titleCell.textContent = title;
       authorCell.textContent = author;
       genreCell.textContent = genre;
-      
-      console.log("搜索关键字：" + query);
-      console.log("书名：" + title);
-      console.log("作者：" + author);
-      console.log("类型：" + genre);
-
     }
   }
 }
