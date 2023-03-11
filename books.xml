@@ -1,33 +1,4698 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <books>
-  <book>
-    <title>The Great Gatsby</title>
-    <author>F. Scott Fitzgerald</author>
-    <genre>Classic</genre>
-  </book>
-  <book>
-    <title>To Kill a Mockingbird</title>
-    <author>Harper Lee</author>
-    <genre>Classic</genre>
-  </book>
-  <book>
-    <title>The Catcher in the Rye</title>
-    <author>J.D. Salinger</author>
-    <genre>Classic</genre>
-  </book>
-  <book>
-    <title>The Hobbit</title>
-    <author>J.R.R. Tolkien</author>
-    <genre>Fantasy</genre>
-  </book>
-  <book>
-    <title>测试</title>
-    <author>程源</author>
-    <genre>中文</genre>
-  </book>
-  <book>
-    <title>The Lord of the Rings</title>
-    <author>J.R.R. Tolkien</author>
-    <genre>Fantasy</genre>
-  </book>
+	<book>
+		<title>“生态学马克思主义”研究.pdf</title>
+		<author>18.8.25/1/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>“神医”“发神喇嘛”和“活鬼”汉文版.pdf</title>
+		<author>18.8.25/2/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>缚身的绳索 形形色色的迷信.pdf</title>
+		<author>18.8.25/3/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>老龄化社会 无形的革命.pdf</title>
+		<author>18.8.25/4/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>老龄问题研究 老龄问题世界大会资料辑录.pdf</title>
+		<author>18.8.25/5/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>荆门市国民经济统计资料 1985年.pdf</title>
+		<author>18.8.25/6/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>阿尔巴尼亚人民共和国统计年鉴 1963.pdf</title>
+		<author>18.8.25/7/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>陈丕显文选 第1卷.pdf</title>
+		<author>18.8.25/8/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>陈丕显文选 第2卷.pdf</title>
+		<author>18.8.25/9/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>陈丕显文选 第3卷.pdf</title>
+		<author>18.8.25/10/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>恩格斯与现代自然科学.pdf</title>
+		<author>18.8.25/11/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>恩格斯传（精装）张新编 1998.pdf</title>
+		<author>18.8.25/12/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>悖论、谬误、诡辩.pdf</title>
+		<author>18.8.25/13/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>“美”的探索.pdf</title>
+		<author>18.8.25/14/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《资本论》与当代 日本学者研究《资本论》文集.pdf</title>
+		<author>18.8.25/15/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《马克思主义基础》部分名词解释.pdf</title>
+		<author>18.8.25/16/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>常用理论词典 吴铎主编 1991.03.pdf</title>
+		<author>18.8.25/17/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>广州统计摘要 1983.pdf</title>
+		<author>18.8.25/18/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>建国以来毛泽东文稿 第三册（1952年1月 - 1952年12月）.pdf</title>
+		<author>18.8.25/19/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>恋爱·婚姻·家庭.pdf</title>
+		<author>18.8.25/20/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>打破旧的平衡 建立新的平衡.pdf</title>
+		<author>18.8.25/21/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>改革与哲学 荣开明著.pdf</title>
+		<author>18.8.25/22/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>贵州省地县财政统计资料1980 - 1985下.pdf</title>
+		<author>18.8.25/23/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>贵阳市国民经济统计资料 1980年.pdf</title>
+		<author>18.8.25/24/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>跟着信仰走：我们家的长征故事.pdf</title>
+		<author>18.8.25/25/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>跟着真理走 - 毛泽东与张闻天.pdf</title>
+		<author>18.8.25/26/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义新闻观拓展读本.pdf</title>
+		<author>18.8.25/27/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义新闻观教程 夏赞君，卿明星.pdf</title>
+		<author>18.8.25/28/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义法律思想研究 付子堂著.pdf</title>
+		<author>18.8.25/29/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义的人口理论与中国人口问题.pdf</title>
+		<author>18.8.25/30/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义的起源 马克思与西方传统.pdf</title>
+		<author>18.8.25/31/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>理论纵横 社会·文史篇.pdf</title>
+		<author>18.8.25/32/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>理论纵横 经济篇 上.pdf</title>
+		<author>18.8.25/33/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>理论纵横 经济篇 下.pdf</title>
+		<author>18.8.25/34/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>番僧源流考 西藏宗教源流考.pdf</title>
+		<author>18.8.25/35/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>百年小平1904 - 2004口述历史：百位亲历者讲述百年小平.pdf</title>
+		<author>18.8.25/36/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>百科自学便览 社会科学部分.pdf</title>
+		<author>18.8.25/37/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>近代美学思想史论丛（苏）特罗菲莫夫等著；汲自信，孟式钧译.pdf</title>
+		<author>18.8.25/38/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑 （上海师范大学中文系《逻辑》编写组编.）.pdf</title>
+		<author>18.8.25/39/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑和真理（苏）库德宁著；刘世英译.pdf</title>
+		<author>18.8.25/40/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑基础知识 初稿（华中师范学院黄石分院中文系编.1978.08）.pdf</title>
+		<author>18.8.25/41/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑基础知识（张静虚编，1975.04）.pdf</title>
+		<author>18.8.25/42/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑学 于惠棠著.pdf</title>
+		<author>18.8.25/43/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《马克思主义基础知识》名词解释 上.pdf</title>
+		<author>18.8.25/44/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>巴甫洛夫学说与儿童心理学.pdf</title>
+		<author>18.8.25/45/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思恩格斯论社会主义社会和共产主义社会.pdf</title>
+		<author>18.8.25/46/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思画传 韩玲.pdf</title>
+		<author>18.8.25/47/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思的个人观念研究.pdf</title>
+		<author>18.8.25/48/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思的劳动观的历史嬗变.pdf</title>
+		<author>18.8.25/49/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思的政治思想 吴恩裕著.pdf</title>
+		<author>18.8.25/50/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义与人类学.pdf</title>
+		<author>18.8.25/51/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义与宗教 唐尧.pdf</title>
+		<author>18.8.25/52/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义与心理学 王丕著.pdf</title>
+		<author>18.8.25/53/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义与时俱进理论品质的哲学基础 吴元梁，杨学功.pdf</title>
+		<author>18.8.25/54/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义与美学中的现实主义.pdf</title>
+		<author>18.8.25/55/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义与调查研究.pdf</title>
+		<author>18.8.25/56/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>林焕平编选著作集 第1卷.pdf</title>
+		<author>18.8.25/57/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>林焕平编选著作集 第4卷.pdf</title>
+		<author>18.8.25/58/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>柯升著作选 第三卷.pdf</title>
+		<author>18.8.25/59/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑论文集 第一集.pdf</title>
+		<author>18.8.25/60/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>道德与改革 1988.01.pdf</title>
+		<author>18.8.25/61/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>道德与精神文明 中国社会科学院哲学研究所伦理学研究室编 1983.06.pdf</title>
+		<author>18.8.25/62/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>道德概论 李佩芝主编；卞国林等编写 1990.06.pdf</title>
+		<author>18.8.25/63/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>道德科学概论 周和岭主编 1989.06.pdf</title>
+		<author>18.8.25/64/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>建国以来毛泽东文稿 第五册（1955年1月 - 1955年12月）.pdf</title>
+		<author>18.8.25/65/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>建国以来毛泽东文稿 第十三册.pdf</title>
+		<author>18.8.25/66/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>建国以来毛泽东文稿 第十二册.pdf</title>
+		<author>18.8.25/67/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>建国以来毛泽东文稿 第十册.pdf</title>
+		<author>18.8.25/68/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>建国以来毛泽东文稿 第四册（1953年1月 - 1954年12月）.pdf</title>
+		<author>18.8.25/69/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>科学论文选集 社会科学第一集.pdf</title>
+		<author>18.8.25/70/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>科学论文选集 社会科学第二集.pdf</title>
+		<author>18.8.25/71/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>竞赛 检查 评比 1958.pdf</title>
+		<author>18.8.25/72/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>靳辉明文集.pdf</title>
+		<author>18.8.25/73/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>顾准民主与“终极目的”.pdf</title>
+		<author>18.8.25/74/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>领袖毛泽东 - 第一卷 - 自述历程.pdf</title>
+		<author>18.8.25/75/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>领袖毛泽东 - 第七卷 - 评点人物.pdf</title>
+		<author>18.8.25/76/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>领袖毛泽东 - 第三卷 - 广交天下.pdf</title>
+		<author>18.8.25/77/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑思想简史 陶文楼著.pdf</title>
+		<author>18.8.25/78/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑思想简史.pdf</title>
+		<author>18.8.25/79/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑教学参考资料（上）.pdf</title>
+		<author>18.8.25/80/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑教学参考资料（下）.pdf</title>
+		<author>18.8.25/81/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑教程 冰利著.pdf</title>
+		<author>18.8.25/82/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义哲学 实践唯物主义述要.pdf</title>
+		<author>18.8.25/83/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义哲学原理的研究与进展.pdf</title>
+		<author>18.8.25/84/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义哲学综合创新论 王东哲学创新论集.pdf</title>
+		<author>18.8.25/85/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义唯物论和无神论基层党员教育读本.pdf</title>
+		<author>18.8.25/86/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义基础教研文稿 下科社篇.pdf</title>
+		<author>18.8.25/87/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>论人口调查登记及统计（苏）波亚尔斯基（А.Е.Боярский）等撰；毕伯宏译.pdf</title>
+		<author>18.8.25/88/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>论人口调查（苏）萨乌琴撰；刘曙光，戴有振译；东北人民经济计划委员会统计局编辑.pdf</title>
+		<author>18.8.25/89/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>论人性和人道主义 1957.pdf</title>
+		<author>18.8.25/90/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>论共产主义劳动.pdf</title>
+		<author>18.8.25/91/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思列宁与统计 1953.05.pdf</title>
+		<author>18.8.25/92/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思列宁主义基本问题 全国干部培训教材编审指导委员会组织编写 2002.pdf</title>
+		<author>18.8.25/93/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思列宁主义基本问题 赵曜，王伟光等主编 2001.pdf</title>
+		<author>18.8.25/94/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思列宁主义社会学原理『德』阿斯曼，『德』斯托贝格著.pdf</title>
+		<author>18.8.25/95/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《资本论》创作史（苏）维·索·维戈茨基.pdf</title>
+		<author>18.8.25/96/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《资本论》学习指南.pdf</title>
+		<author>18.8.25/97/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《资本论》的思想精华和伟大生命力.pdf</title>
+		<author>18.8.25/98/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《资本论》的逻辑（上册）.pdf</title>
+		<author>18.8.25/99/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《资本论》的逻辑（下册）.pdf</title>
+		<author>18.8.25/100/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>海康县“仙人水”事件的真相.pdf</title>
+		<author>18.8.25/101/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>海里有没有龙王？.pdf</title>
+		<author>18.8.25/102/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>湖北与江苏主要统计指标对比资料.pdf</title>
+		<author>18.8.25/103/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>湖北省粮价统计资料 1950 - 1955年.pdf</title>
+		<author>18.8.25/104/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>漫步遐思.pdf</title>
+		<author>18.8.25/105/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>“美是什么？”新探.pdf</title>
+		<author>18.8.25/106/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>“西方马克思主义”美学研究.pdf</title>
+		<author>18.8.25/107/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>“鬼神”的秘密（增订本）.pdf</title>
+		<author>18.8.25/108/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《德意志意识形态》的世界.pdf</title>
+		<author>18.8.25/109/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《朱子家训》批判.pdf</title>
+		<author>18.8.25/110/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>蔡仪美学论文选.pdf</title>
+		<author>18.8.25/111/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>蔡和森文集 上.pdf</title>
+		<author>18.8.25/112/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>蔡和森文集 下.pdf</title>
+		<author>18.8.25/113/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>陈云文选（一九四九 —— 一九五六年）.pdf</title>
+		<author>18.8.25/114/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>陈修斋哲学与哲学史论文集.pdf</title>
+		<author>18.8.25/115/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>陈晏清文集.pdf</title>
+		<author>18.8.25/116/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>陈独秀学术文化随笔.pdf</title>
+		<author>18.8.25/117/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>陈翰笙文集.pdf</title>
+		<author>18.8.25/118/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>改进规章制度 1958.pdf</title>
+		<author>18.8.25/119/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>改革与哲学 全国党校第五届哲学年会论文集.pdf</title>
+		<author>18.8.25/120/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>技术美学和艺术设计基础（苏）施伯拉（Шпара，П.Е.）著；李荫成译.pdf</title>
+		<author>18.8.25/121/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>拆穿迷信活动的骗局.pdf</title>
+		<author>18.8.25/122/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>揭开“天堂、地府”.pdf</title>
+		<author>18.8.25/123/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>揭开迷信的盖子.pdf</title>
+		<author>18.8.25/124/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>揭开迷信鬼神内幕1987.07.pdf</title>
+		<author>18.8.25/125/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>揭开鬼神之谜 福建科学技术出版社 2000年.pdf</title>
+		<author>18.8.25/126/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>跨越时空的对话 人类神话解读 CEP.pdf</title>
+		<author>18.8.25/127/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证思维研究.pdf</title>
+		<author>18.8.25/128/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证思维规律及其应用.pdf</title>
+		<author>18.8.25/129/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证思维论 金顺福 汪馥郁主编.pdf</title>
+		<author>18.8.25/130/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证法与社会学.pdf</title>
+		<author>18.8.25/131/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义的逻辑哲学探析.pdf</title>
+		<author>18.8.25/132/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义社会学史（郑杭生，刘少杰主编，2006）.pdf</title>
+		<author>18.8.25/133/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义经典著作研究性导读.pdf</title>
+		<author>18.8.25/134/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义美学概论（陈孝尉著）.pdf</title>
+		<author>18.8.25/135/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义美学研究 第12卷 第1期.pdf</title>
+		<author>18.8.25/136/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>福建社会统计资料 1986.pdf</title>
+		<author>18.8.25/137/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>科学与宗教 从哥白尼到达尔文（1450 - 1900）.pdf</title>
+		<author>18.8.25/138/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>科学与宗教：从亚里士多德到哥白尼 400.B.C.A.D.1550.pdf</title>
+		<author>18.8.25/139/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>科学伦理学.pdf</title>
+		<author>18.8.25/140/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑学 （上海教育学院编.1979.12）.pdf</title>
+		<author>18.8.25/141/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑学基本知识（武汉大学哲学系逻辑教研室编.1978.02）.pdf</title>
+		<author>18.8.25/142/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑学基础（李先焜著.1979.10）.pdf</title>
+		<author>18.8.25/143/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑学概论 何向东著.pdf</title>
+		<author>18.8.25/144/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑学纲要 李志才著.pdf</title>
+		<author>18.8.25/145/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>巴赫金集.pdf</title>
+		<author>18.8.25/146/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>帝国主义反动势力的天主教哲学.pdf</title>
+		<author>18.8.25/147/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>帝国主义时期的宗教.pdf</title>
+		<author>18.8.25/148/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>常用哲学名词词典 广西人民出版社 1985年.pdf</title>
+		<author>18.8.25/149/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>高科技与宗教.pdf</title>
+		<author>18.8.25/150/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>高等心理学 柯尼洛夫等编著 何万福 赫葆源译 1952年08月第1版.pdf</title>
+		<author>18.8.25/151/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>鬼的现场调查.pdf</title>
+		<author>18.8.25/152/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>鬼神与封建迷信.pdf</title>
+		<author>18.8.25/153/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>黎明前的沉思与憧憬 1948年文集.pdf</title>
+		<author>18.8.25/154/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>论共产主义道德 李凡夫著 1963.7.pdf</title>
+		<author>18.8.25/155/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>贵州省地县财政统计资料1950 - 1985.pdf</title>
+		<author>18.8.25/156/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证法从理论逻辑到实践智慧.pdf</title>
+		<author>18.8.25/157/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑学习与研究参考资料（一）.pdf</title>
+		<author>18.8.25/158/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑述要.pdf</title>
+		<author>18.8.25/159/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>近代美学史评述（英）李斯托威尔（Listowel）著；蒋孔阳译.pdf</title>
+		<author>18.8.25/160/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑学 杭州大学等十院校《逻辑学》编写组编写.pdf</title>
+		<author>18.8.25/161/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑规律的本质.pdf</title>
+		<author>18.8.25/162/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邓小平·1928.pdf</title>
+		<author>18.8.25/163/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邓小平在历次论争中.pdf</title>
+		<author>18.8.25/164/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>郭洪涛文集.pdf</title>
+		<author>18.8.25/165/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>陈丕显文选 第4卷.pdf</title>
+		<author>18.8.25/166/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义人论.pdf</title>
+		<author>18.8.25/167/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义人道主义问题 译文集.pdf</title>
+		<author>18.8.25/168/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义伦理学 钱应琼编著.pdf</title>
+		<author>18.8.25/169/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义伦理学原理 八所高等师范院校编著.pdf</title>
+		<author>18.8.25/170/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义伦理学原理（修订本）八所高等师范院校编著.pdf</title>
+		<author>18.8.25/171/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>比较神话学.pdf</title>
+		<author>18.8.25/172/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>江西“六五”时期社会经济统计资料.pdf</title>
+		<author>18.8.25/173/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>江西省城市统计年鉴 1984.pdf</title>
+		<author>18.8.25/174/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>河南农村宗教活动对基层政权的影响及对策研究报告.pdf</title>
+		<author>18.8.25/175/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邓小平与一九七五年整顿.pdf</title>
+		<author>18.8.25/176/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邓小平与中共历史学.pdf</title>
+		<author>18.8.25/177/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邓小平与六十人.pdf</title>
+		<author>18.8.25/178/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邓小平伦理思想研究.pdf</title>
+		<author>18.8.25/179/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邓小平关于农业的“两个飞跃”思想与实践.pdf</title>
+		<author>18.8.25/180/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>建国初期对唯心主义的四次批判.pdf</title>
+		<author>18.8.25/181/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>弗洛伊德主义 中国社会科学院外国文学研究所 外国文学研究资料丛书编辑委员会编（苏）巴赫金 沃洛希诺夫著 佟景韩译.pdf</title>
+		<author>18.8.25/182/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>弗洛伊德主义批判.pdf</title>
+		<author>18.8.25/183/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>当代中国社会科学手册.pdf</title>
+		<author>18.8.25/184/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>简明哲学辞典译名汇编 俄华对照·华俄对照.pdf</title>
+		<author>18.8.25/185/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>简明哲学辞典（苏）罗森塔尔1955.pdf</title>
+		<author>18.8.25/186/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>简明美学原理 仇春霖主编.pdf</title>
+		<author>18.8.25/187/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>简明马克思主义伦理学 湖南省伦理学研究会，湖南师院学报编辑部编 1982.pdf</title>
+		<author>18.8.25/188/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>管理的社会心理学，А·Л·斯文齐茨基.pdf</title>
+		<author>18.8.25/189/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>领袖毛泽东 - 第五卷 - 领导艺术.pdf</title>
+		<author>18.8.25/190/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>领袖毛泽东 - 第八卷 - 诗词鉴赏.pdf</title>
+		<author>18.8.25/191/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>领袖毛泽东 - 第六卷 - 军事韬略.pdf</title>
+		<author>18.8.25/192/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>领袖毛泽东 - 第十卷 - 珍闻轶事.pdf</title>
+		<author>18.8.25/193/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>领袖毛泽东 - 第四卷 - 家事亲情.pdf</title>
+		<author>18.8.25/194/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑概论 刘景泉著.pdf</title>
+		<author>18.8.25/195/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑理论问题.pdf</title>
+		<author>18.8.25/196/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑研究 中国逻辑学会辩证逻辑研究会编.pdf</title>
+		<author>18.8.25/197/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑纲要 河南人民出版社 1982.02.pdf</title>
+		<author>18.8.25/198/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑纲要（下册）.pdf</title>
+		<author>18.8.25/199/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义基础知识300题.pdf</title>
+		<author>18.8.25/200/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义大辞典 卢之超编著.pdf</title>
+		<author>18.8.25/201/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义存在根基与实践美学.pdf</title>
+		<author>18.8.25/202/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义审美观 丁枫.pdf</title>
+		<author>18.8.25/203/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>论共产主义道德（苏）巴斯金（М.Баскин）著；江鸟译.pdf</title>
+		<author>18.8.25/204/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>论心理学的客观方法（论文集）.pdf</title>
+		<author>18.8.25/205/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>论新爱国主义 竖排.pdf</title>
+		<author>18.8.25/206/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>论生活和文化的价值（苏）屠加林诺夫，В.П.著；子幸等译.pdf</title>
+		<author>18.8.25/207/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>论社会科学研究 续集.pdf</title>
+		<author>18.8.25/208/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思列宁主义美学基础教学大纲 初稿.pdf</title>
+		<author>18.8.25/209/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思列宁主义美学概论 苏联艺术科学院美术理论与美术史研究所著；孙成寅译 1986.10.pdf</title>
+		<author>18.8.25/210/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思列宁主义美学（第三辑）（苏）特罗菲莫夫（П.Трофимов），（苏）斯卡提尔西柯夫著；马晶锋译.pdf</title>
+		<author>18.8.25/211/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思哲学思维范式的当代阐释.pdf</title>
+		<author>18.8.25/212/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《资本论》研究论丛 第一辑 1949 - 1959.pdf</title>
+		<author>18.8.25/213/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《资本论》研究论丛 第三辑 1963 - 1965.pdf</title>
+		<author>18.8.25/214/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《资本论》研究论丛 第二辑 1960 - 1962.pdf</title>
+		<author>18.8.25/215/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《资本论》研究译丛 不朽的著作.pdf</title>
+		<author>18.8.25/216/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《资本论》研究译丛 通往《资本论》的道路：1857 - 1863年马克思的资本概念的发展.pdf</title>
+		<author>18.8.25/217/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>漫谈调查研究.pdf</title>
+		<author>18.8.25/218/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>灵魂存在吗.pdf</title>
+		<author>18.8.25/219/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>理性与现实 - 《德意志意识形态》评述.pdf</title>
+		<author>18.8.25/220/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>理性时代 对于真假神学的探讨.pdf</title>
+		<author>18.8.25/221/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>解开美的本质之谜.pdf</title>
+		<author>18.8.25/222/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>解放初期的天津.pdf</title>
+		<author>18.8.25/223/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>解读林彪.pdf</title>
+		<author>18.8.25/224/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>记忆注意与联想.pdf</title>
+		<author>18.8.25/225/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>记忆（苏）臧可夫（Л.В.Занков）著；张世臣等译.pdf</title>
+		<author>18.8.25/226/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>讲科学 破迷信.pdf</title>
+		<author>18.8.25/227/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>集体化时期基层干部政策行为研究.pdf</title>
+		<author>18.8.25/228/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>静园夜语.pdf</title>
+		<author>18.8.25/229/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>非洲的居民.pdf</title>
+		<author>18.8.25/230/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>革命与动员 建构“共意”的视角.pdf</title>
+		<author>18.8.25/231/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>革命战争和法国战争.pdf</title>
+		<author>18.8.25/232/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>改革前进的八年1978 - 1986.pdf</title>
+		<author>18.8.25/233/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>景仰 廖毅文 1993.pdf</title>
+		<author>18.8.25/234/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>更高地举起批评和自我批评的武器.pdf</title>
+		<author>18.8.25/235/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>服务性工作是崇高的工作.pdf</title>
+		<author>18.8.25/236/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证矛盾与逻辑矛盾.pdf</title>
+		<author>18.8.25/237/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑 张巨青等编著.pdf</title>
+		<author>18.8.25/238/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑 张智光编著.pdf</title>
+		<author>18.8.25/239/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑与科学方法论.pdf</title>
+		<author>18.8.25/240/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑史论纲 蔡灿津著.pdf</title>
+		<author>18.8.25/241/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑基本原理 张智光著.pdf</title>
+		<author>18.8.25/242/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑学 张世珊著.pdf</title>
+		<author>18.8.25/243/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辩证逻辑学 梁庆寅编著.pdf</title>
+		<author>18.8.25/244/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义美学研究 第15卷 第1期.pdf</title>
+		<author>18.8.25/245/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义美学研究 第16卷 第2期 = Research on Marxist aesthetics.pdf</title>
+		<author>18.8.25/246/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义美学研究 第九辑.pdf</title>
+		<author>18.8.25/247/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义美学研究 第十一辑.pdf</title>
+		<author>18.8.25/248/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义美学研究 第十辑.pdf</title>
+		<author>18.8.25/249/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义辩证逻辑基本原理.pdf</title>
+		<author>18.8.25/250/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>科学和宗教论心理现象.pdf</title>
+		<author>18.8.25/251/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>科学战胜迷信：兼批“法轮功”邪教的歪理邪说 增补本.pdf</title>
+		<author>18.8.25/252/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>科学技术哲学的研究与进展.pdf</title>
+		<author>18.8.25/253/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑学（德）黑格尔（G.W.F.Hegel）著，杨一之译；1966.02.pdf</title>
+		<author>18.8.25/254/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑学［（匈）弗格拉希（Б.Хогарашн）著，刘丕坤译；1979.12.pdf</title>
+		<author>18.8.25/255/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑思想发展史（从古希腊罗马到文艺复兴时期）.pdf</title>
+		<author>18.8.25/256/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑知识教学参考资料.pdf</title>
+		<author>18.8.25/257/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑知识（天津师范学院中文系《逻辑知识》编写组编.1978.03）.pdf</title>
+		<author>18.8.25/258/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑科学纲要.pdf</title>
+		<author>18.8.25/259/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>逻辑范畴论.pdf</title>
+		<author>18.8.25/260/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>广东党史资料 第四辑.pdf</title>
+		<author>18.8.25/261/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>广东省统计资料提要 1978－1982.pdf</title>
+		<author>18.8.25/262/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>广州人 昨日与今日.pdf</title>
+		<author>18.8.25/263/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>黑暗与愚昧的守护神 宗教裁判所.pdf</title>
+		<author>18.8.25/264/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>黑格尔《大逻辑》选释.pdf</title>
+		<author>18.8.25/265/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>黑格尔《小逻辑》绎注.pdf</title>
+		<author>18.8.25/266/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义伦理学（供政教专业本科、函授试用）甘葆露编1986.01.pdf</title>
+		<author>18.8.25/267/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义伦理学（政教专科函授教材）钱应琼.pdf</title>
+		<author>18.8.25/268/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义伦理学（苏）季塔连科主编.pdf</title>
+		<author>18.8.25/269/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>河南省、市地、县社会经济概况 1980 - 1990.pdf</title>
+		<author>18.8.25/270/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>河南省历史统计提要.pdf</title>
+		<author>18.8.25/271/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>河南省社会统计资料 1986.07.pdf</title>
+		<author>18.8.25/272/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>河南省科学研究与技术开发机构统计资料 1986年.pdf</title>
+		<author>18.8.25/273/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>法的一般理论与马克思主义［前苏联］帕舒卡尼斯著.pdf</title>
+		<author>18.8.25/274/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>活动意识个性（苏）列昂捷夫著；李沂译.pdf</title>
+		<author>18.8.25/275/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邓小平理论形成史.pdf</title>
+		<author>18.8.25/276/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邓小平的国际政治理论.pdf</title>
+		<author>18.8.25/277/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邓小平的旅法留苏岁月.pdf</title>
+		<author>18.8.25/278/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邓小平科技思想年谱 1975 - 1994.pdf</title>
+		<author>18.8.25/279/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邓小平财经理论与中国财政改革.pdf</title>
+		<author>18.8.25/280/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邓小平：在历史的天平上 俞吾金.pdf</title>
+		<author>18.8.25/281/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邯郸四十五年.pdf</title>
+		<author>18.8.25/282/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>郭沫若美学思想研究.pdf</title>
+		<author>18.8.25/283/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>当代视域中的马克思主义实践论美学.pdf</title>
+		<author>18.8.25/284/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>德国古典美学.pdf</title>
+		<author>18.8.25/285/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>德国宗教改革家 马丁·路德.pdf</title>
+		<author>18.8.25/286/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>德意志民主共和国统计年鉴 1955.pdf</title>
+		<author>18.8.25/287/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>必须忠诚老实 1955.11.pdf</title>
+		<author>18.8.25/288/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>粮票的故事.pdf</title>
+		<author>18.8.25/289/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>精神分析的危机 论弗洛伊德、马克思和社会心理学.pdf</title>
+		<author>18.8.25/290/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>红色的故事 1921 - 1949.pdf</title>
+		<author>18.8.25/291/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>纪念二七大罢工六十周年论文选集.pdf</title>
+		<author>18.8.25/292/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>饥饿地理（巴西）J.de.卡斯特罗（J.de.Castro）著；黄秉镛译.pdf</title>
+		<author>18.8.25/293/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思 恩格斯 列宁 斯大林 毛泽东论历史唯物主义（上卷）.pdf</title>
+		<author>18.8.25/294/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思“不惑之年”的思考.pdf</title>
+		<author>18.8.25/295/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思与欧洲近代政治哲学.pdf</title>
+		<author>18.8.25/296/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>领袖毛泽东 - 第二卷 - 亲历见证.pdf</title>
+		<author>18.8.25/297/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思与浪漫派的反讽：论马克思主义神话诗学的本源.pdf</title>
+		<author>18.8.25/298/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义人的哲学初探.pdf</title>
+		<author>18.8.25/299/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义伦理学（苏）季塔连科主编；愚生，重耳译 1981.06.pdf</title>
+		<author>18.8.25/300/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义和人文科学.pdf</title>
+		<author>18.8.25/301/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义基础教研文稿.pdf</title>
+		<author>18.8.25/302/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义新闻思想研究.pdf</title>
+		<author>18.8.25/303/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义美学研究 第12卷 第2期.pdf</title>
+		<author>18.8.25/304/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思列宁与统计 1951.06.pdf</title>
+		<author>18.8.25/305/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思列宁主义经典作家 论宗教 摘录.pdf</title>
+		<author>18.8.25/306/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思宗教批判的革命变革：从理性的批判到实践的批判.pdf</title>
+		<author>18.8.25/307/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思恩格斯著作中译文综录.pdf</title>
+		<author>18.8.25/308/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>高举统计工作的红旗 全面改革中的河北省隆尧县统计工作.pdf</title>
+		<author>18.8.25/309/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>黎澍自选集.pdf</title>
+		<author>18.8.25/310/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辽宁大学学术论文选编 3 1983 - 1984.pdf</title>
+		<author>18.8.25/311/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辽宁大学学术论文选编 4 1983 - 1984.pdf</title>
+		<author>18.8.25/312/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辽宁大学学术论文选编 6 1983 - 1984.pdf</title>
+		<author>18.8.25/313/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辽宁大学学术论文选编 7 1983 - 1984.pdf</title>
+		<author>18.8.25/314/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>论美 高尔太 1982年12月第1版.pdf</title>
+		<author>18.8.25/315/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>论美和艺术（苏）波斯彼洛夫（Поспелов，Л.Н.）著；刘宾雁译.pdf</title>
+		<author>18.8.25/316/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>读报常识手册 1959.07.pdf</title>
+		<author>18.8.25/317/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>读报手册 中共中央国防工业政治部 1966.08.pdf</title>
+		<author>18.8.25/318/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>贵州省一九八七年乡镇企业统计资料.pdf</title>
+		<author>18.8.25/319/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思恩格斯与民族运动.pdf</title>
+		<author>18.8.25/320/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思恩格斯人权理论及其当代价值.pdf</title>
+		<author>18.8.25/321/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思恩格斯刑法思想研究.pdf</title>
+		<author>18.8.25/322/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思恩格斯列宁领导理论研究.pdf</title>
+		<author>18.8.25/323/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思恩格斯哲学基本思想探讨与解析.pdf</title>
+		<author>18.8.25/324/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《资本论》研究译丛《资本论》与现代.pdf</title>
+		<author>18.8.25/325/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《资本论》研究译丛《资本论》的方法.pdf</title>
+		<author>18.8.25/326/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《资本论》研究（1981年12月全国第一次《资本论》学术讨论会文集）.pdf</title>
+		<author>18.8.25/327/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《资本论》自学提要.pdf</title>
+		<author>18.8.25/328/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《资本论》要略.pdf</title>
+		<author>18.8.25/329/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《马克思主义基础》名词解释 中国人民解放军高射炮兵学校政治理论教研室编.pdf</title>
+		<author>18.8.25/330/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>理论动态 423 第12辑 问题要打破老框框 - 关于大连市住宅问题的调查.pdf</title>
+		<author>18.8.25/331/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>理论动态 652 第19辑 1986年下半年 民主应随着社会主义的发展而不断发展.pdf</title>
+		<author>18.8.25/332/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>理论研究资料译文丛刊 第1辑.pdf</title>
+		<author>18.8.25/333/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>理论研究资料译文丛刊 第2辑.pdf</title>
+		<author>18.8.25/334/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>巴赫金全集 第4卷文本对话与人文.pdf</title>
+		<author>18.8.25/335/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马列主义基本理论提要.pdf</title>
+		<author>18.8.25/336/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马尔萨斯“人口论”和“新人口论”的批判.pdf</title>
+		<author>18.8.25/337/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马尔萨斯主义.pdf</title>
+		<author>18.8.25/338/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马恩列斯著作选编导读 下.pdf</title>
+		<author>18.8.25/339/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马承伦的转变.pdf</title>
+		<author>18.8.25/340/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>道德科学知识讲话.pdf</title>
+		<author>18.8.25/341/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>道德问题论集 1964.9.pdf</title>
+		<author>18.8.25/342/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邓力群文集 第1卷.pdf</title>
+		<author>18.8.25/343/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邓力群文集 第2卷.pdf</title>
+		<author>18.8.25/344/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>邓力群文集 第3卷.pdf</title>
+		<author>18.8.25/345/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>第二国际理论家马克思主义观研究.pdf</title>
+		<author>18.8.25/346/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>答读者问 十一届三中全会以来我们党在哪些方面发展了毛泽东思想.pdf</title>
+		<author>18.8.25/347/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>简明伦理学 章海山编著1986.04.pdf</title>
+		<author>18.8.25/348/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>简明共产主义道德原理 林建初编著 1982.09.pdf</title>
+		<author>18.8.25/349/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《独秀文存》选.pdf</title>
+		<author>18.8.25/350/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《红旗》优秀理论文章选 1979 - 1983.pdf</title>
+		<author>18.8.25/351/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《红旗》岁月.pdf</title>
+		<author>18.8.25/352/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《美的研究与欣赏》丛刊 一九八三年第一辑 总第二辑.pdf</title>
+		<author>18.8.25/353/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>《群众》周刊史.pdf</title>
+		<author>18.8.25/354/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>横扫自卑感.pdf</title>
+		<author>18.8.25/355/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>海南行政区国民经济和社会统计资料1986年.pdf</title>
+		<author>18.8.25/356/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>理论动态 302 第9辑 简论鲁迅的历史观 - 纪念鲁迅诞生百周年.pdf</title>
+		<author>18.8.25/357/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>理论纵横 政治篇.pdf</title>
+		<author>18.8.25/358/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>福建省漳平县国民经济统计资料（1949 - 1988）.pdf</title>
+		<author>18.8.25/359/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>简明哲学小词典 四川人民出版社 1986年.pdf</title>
+		<author>18.8.25/360/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>继续追求 二十年间的学与思.pdf</title>
+		<author>18.8.25/361/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>菲律宾共和国 上.pdf</title>
+		<author>18.8.25/362/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>觉醒的力量 全球宗教对话与交流.pdf</title>
+		<author>18.8.25/363/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>革命的世界观与道德观.pdf</title>
+		<author>18.8.25/364/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义对心理分析学说的批评.pdf</title>
+		<author>18.8.25/365/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义政治哲学：阐释与创新.pdf</title>
+		<author>18.8.25/366/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义文献解读.pdf</title>
+		<author>18.8.25/367/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义文艺理论 畅广元.pdf</title>
+		<author>18.8.25/368/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义文艺理论发展史 复旦大学中文系文艺理论教研室编著.pdf</title>
+		<author>18.8.25/369/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>本溪市建国四十周年统计资料 1949年 - 1988年.pdf</title>
+		<author>18.8.25/370/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>机要秘书的思念.pdf</title>
+		<author>18.8.25/371/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>李琪文集.pdf</title>
+		<author>18.8.25/372/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>科学无神论教育研究.pdf</title>
+		<author>18.8.25/373/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>科学无神论研究 李士菊著.pdf</title>
+		<author>18.8.25/374/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>科学无神论读本 北京：中共中央党校出版社本书编写组编 1999.08.pdf</title>
+		<author>18.8.25/375/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>科学理性与鬼神迷信.pdf</title>
+		<author>18.8.25/376/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>建国以来中国共产党的资本主义观.pdf</title>
+		<author>18.8.25/377/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>建国以来毛泽东文稿 1960年1月 - 1961年12月 第九册.pdf</title>
+		<author>18.8.25/378/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>建国以来毛泽东文稿 1964年1月 - 1965年12月 第十一册.pdf</title>
+		<author>18.8.25/379/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>黑格尔《逻辑学》及其范畴辨析.pdf</title>
+		<author>18.8.25/380/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>黑格尔早期神学著作.pdf</title>
+		<author>18.8.25/381/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>黑格尔的宗教哲学.pdf</title>
+		<author>18.8.25/382/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>黑格尔美学论稿.pdf</title>
+		<author>18.8.25/383/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>（苏）卡里姆斯基（Каримский，А.М.）著；徐若木，徐秀华译.pdf</title>
+		<author>18.8.25/384/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义伦理思想发展的历程.pdf</title>
+		<author>18.8.25/385/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义史 - 第一卷 庄福龄.pdf</title>
+		<author>18.8.25/386/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义史 - 第二卷 马健行.pdf</title>
+		<author>18.8.25/387/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义史研究资料译丛 - 马克思恩格斯早期哲学思想研究.pdf</title>
+		<author>18.8.25/388/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>纪念伟大的领袖和导师毛泽东诞辰100周年.pdf</title>
+		<author>18.8.25/389/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>纪念毛泽东同志诞辰九十周年论文集 坚持和发展毛泽东思想.pdf</title>
+		<author>18.8.25/390/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>纪念马克思逝世一百周年 马克思主义与人.pdf</title>
+		<author>18.8.25/391/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>经济学与人类关怀（何清涟著）.pdf</title>
+		<author>18.8.25/392/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思与社会学 竖排.pdf</title>
+		<author>18.8.25/393/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思与马克思主义：从经济学批判到世界观.pdf</title>
+		<author>18.8.25/394/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思世界史观：文本、前沿与反思.pdf</title>
+		<author>18.8.25/395/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>马克思主义与二十世纪中国文学.pdf</title>
+		<author>18.8.25/396/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>辽宁统计信息 1985.pdf</title>
+		<author>18.8.25/397/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>近代世界著名人物.pdf</title>
+		<author>18.8.25/398/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>近代在华外国军事顾问 - 首届中国近代军事史学术讨论会.pdf</title>
+		<author>18.8.25/399/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>上帝之后 宗教的未来.pdf</title>
+		<author>18.8.25/400/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>上帝的起源 伊·斯克沃尔佐夫 —— 斯切潘诺夫.pdf</title>
+		<author>18.8.25/401/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>上步看下步 今年看明年 1958.pdf</title>
+		<author>18.8.25/402/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>上海工人论文选 第2辑.pdf</title>
+		<author>18.8.25/403/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>上海市美学研究会文选（三）.pdf</title>
+		<author>18.8.25/404/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>上海统计资料摘要 1982.pdf</title>
+		<author>18.8.25/405/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计工作重要文件汇编 第2辑.pdf</title>
+		<author>18.8.25/406/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计工作重要文件汇编 第3辑.pdf</title>
+		<author>18.8.25/407/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计干部学习材料 1 马克思、恩格斯、列宁、斯大林论统计 专辑.pdf</title>
+		<author>18.8.25/408/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计干部学习材料 2 毛泽东论调查研究 专辑.pdf</title>
+		<author>18.8.25/409/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计年鉴 第9辑.pdf</title>
+		<author>18.8.25/410/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计理论 第1分册.pdf</title>
+		<author>18.8.25/411/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>无锡统计年鉴 1989.pdf</title>
+		<author>18.8.25/412/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>时代·改革与哲学.pdf</title>
+		<author>18.8.25/413/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学百题 吕美生等编著 1985.12.pdf</title>
+		<author>18.8.25/414/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学的反思与辨正.pdf</title>
+		<author>18.8.25/415/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学的研究与进展.pdf</title>
+		<author>18.8.25/416/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学研究 1988 2.pdf</title>
+		<author>18.8.25/417/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学研究 1988·1.pdf</title>
+		<author>18.8.25/418/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学简论 夏放著.pdf</title>
+		<author>18.8.25/419/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>世界三大宗教的起源.pdf</title>
+		<author>18.8.25/420/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>世界各主要国家的政教关系 第1集.pdf</title>
+		<author>18.8.25/421/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>为什么我不是基督教徒 宗教和有关问题论文集.pdf</title>
+		<author>18.8.25/422/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人口论（英）T.R.马尔萨斯著；郭大力译.pdf</title>
+		<author>18.8.25/423/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人的哲学论纲.pdf</title>
+		<author>18.8.25/424/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>什么是美学.pdf</title>
+		<author>18.8.25/425/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>你认识鬼神吗 1996.pdf</title>
+		<author>18.8.25/426/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>危机与反思 下.pdf</title>
+		<author>18.8.25/427/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>图腾崇拜（苏）Д·Е·海通.pdf</title>
+		<author>18.8.25/428/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>外国美学 第2辑.pdf</title>
+		<author>18.8.25/429/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>外国青年问题与研究 第1集.pdf</title>
+		<author>18.8.25/430/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>宁夏回族自治区农业统计历史资料（1949 - 1988）.pdf</title>
+		<author>18.8.25/431/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>实践存在论的美学思考方式 2.pdf</title>
+		<author>18.8.25/432/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>巫术科学宗教与神话 1987.pdf</title>
+		<author>18.8.25/433/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现代外国资产阶级伦理学问题译丛 1960 - 1962.pdf</title>
+		<author>18.8.25/434/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现代思想文化译丛 法国的后弗洛伊德主义批判分析.pdf</title>
+		<author>18.8.25/435/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现代性与中国.pdf</title>
+		<author>18.8.25/436/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现代性的美学话语：批判理论与实践美学.pdf</title>
+		<author>18.8.25/437/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现代我国的人口问题 马尔萨斯人口理论和我国马尔萨斯主义的批判.pdf</title>
+		<author>18.8.25/438/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>外国美学 第3辑.pdf</title>
+		<author>18.8.25/439/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>外国美学 第5辑.pdf</title>
+		<author>18.8.25/440/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>外国美学 第6辑.pdf</title>
+		<author>18.8.25/441/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>外国美学 第7辑.pdf</title>
+		<author>18.8.25/442/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美的问题（苏）万斯洛夫著；杨成寅译.pdf</title>
+		<author>18.8.25/443/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美的问题（苏）万斯诺夫（Ванслов，В.）著；雷成德，胡日佳译.pdf</title>
+		<author>18.8.25/444/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美育基础知识 刘叔成主编 1992.pdf</title>
+		<author>18.8.25/445/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>翁亭文集.pdf</title>
+		<author>18.8.25/446/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>肃清资产阶级统计学术思想的流毒.pdf</title>
+		<author>18.8.25/447/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美与审美观.pdf</title>
+		<author>18.8.25/448/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美与艺术林清奇.pdf</title>
+		<author>18.8.25/449/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美和美的创造.pdf</title>
+		<author>18.8.25/450/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美国人文社会科学现状与发展.pdf</title>
+		<author>18.8.25/451/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学研究的方法论问题［（苏）科兹洛夫主编；曹静，吴振海译］.pdf</title>
+		<author>18.8.25/452/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学纪程 1979 - 1985.pdf</title>
+		<author>18.8.25/453/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学纲要（宋书伟，王因为主编）.pdf</title>
+		<author>18.8.25/454/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>任平自选集.pdf</title>
+		<author>18.8.25/455/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>伟人的一生（下册）邓力群主编；黄允升本卷主编.pdf</title>
+		<author>18.8.25/456/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>伪气功与“物异功能”内幕大暴光.pdf</title>
+		<author>18.8.25/457/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>你知道吗 破除迷信 第1册.pdf</title>
+		<author>18.8.25/458/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东多党合作思想探析.pdf</title>
+		<author>18.8.25/459/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东对马克思主义发展的贡献.pdf</title>
+		<author>18.8.25/460/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东思想史（第一卷）杨超，毕剑横.pdf</title>
+		<author>18.8.25/461/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东思想史（第三卷）（修订本）杨超.pdf</title>
+		<author>18.8.25/462/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东思想史（第二卷）（修订本）杨超，毕剑横.pdf</title>
+		<author>18.8.25/463/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>巫术科学宗教与神话.pdf</title>
+		<author>18.8.25/464/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>希腊宗教概论.pdf</title>
+		<author>18.8.25/465/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>平顶山市建国以来统计资料 1949 - 1988.pdf</title>
+		<author>18.8.25/466/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联心理科学 第2卷.pdf</title>
+		<author>18.8.25/467/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联的国家统计组织.pdf</title>
+		<author>18.8.25/468/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联的民主s.pdf</title>
+		<author>18.8.25/469/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西北战场亲历记下.pdf</title>
+		<author>18.8.25/470/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西安历史统计资料汇编 1949 - 1989 第1分册.pdf</title>
+		<author>18.8.25/471/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学基本理论 卢善庆著 北京：科学出版社.pdf</title>
+		<author>18.8.25/472/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学基本理论 卢善庆著.pdf</title>
+		<author>18.8.25/473/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学基础 （缭澄浴主编.1989.02）.pdf</title>
+		<author>18.8.25/474/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学基础教程（沈超主编.1990.06）.pdf</title>
+		<author>18.8.25/475/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>神的由来.pdf</title>
+		<author>18.8.25/476/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>神秘主义，巫术与文化风尚.pdf</title>
+		<author>18.8.25/477/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>神话与民族精神 几个文化圈的比较.pdf</title>
+		<author>18.8.25/478/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>神话新论.pdf</title>
+		<author>18.8.25/479/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>书斋里的革命 朱学勤文选.pdf</title>
+		<author>18.8.25/480/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人·世界·宗教 无神论教育参考资料.pdf</title>
+		<author>18.8.25/481/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人们一定要挨饿吗 与马尔萨斯派的论战.pdf</title>
+		<author>18.8.25/482/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>破除迷信的为什么.pdf</title>
+		<author>18.8.25/483/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>破除迷信的常识 下.pdf</title>
+		<author>18.8.25/484/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>破除迷信的科学常识.pdf</title>
+		<author>18.8.25/485/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>破除迷信问答.pdf</title>
+		<author>18.8.25/486/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译文专辑 第10辑 关于抽样法理论与应用的发展历史.pdf</title>
+		<author>18.8.25/487/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译文专辑 第11辑 抽样法在人口调查中的应用.pdf</title>
+		<author>18.8.25/488/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译文专辑 第12辑 指数理论问题.pdf</title>
+		<author>18.8.25/489/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译文专辑 第14辑 全苏统计工作者会议专刊.pdf</title>
+		<author>18.8.25/490/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>民族学研究 第7辑 纪念恩格斯《家庭、私有制和国家的起源》发表一百周年.pdf</title>
+		<author>18.8.25/491/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>民族学（李绍明著，1986.01）.pdf</title>
+		<author>18.8.25/492/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>民族新论 徐杰舜，彭英明著.pdf</title>
+		<author>18.8.25/493/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学评林 第三辑.pdf</title>
+		<author>18.8.25/494/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学评林 第二辑.pdf</title>
+		<author>18.8.25/495/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学评林 第五辑.pdf</title>
+		<author>18.8.25/496/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学评林 第四辑.pdf</title>
+		<author>18.8.25/497/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>批判反动的《女儿经》.pdf</title>
+		<author>18.8.25/498/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>批判资产阶级世界观1960.6.pdf</title>
+		<author>18.8.25/499/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>批判马寅初新人口论 参考资料汇编.pdf</title>
+		<author>18.8.25/500/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>批评和自我批评是我们的武器.pdf</title>
+		<author>18.8.25/501/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学Ю.Б.鲍列夫.pdf</title>
+		<author>18.8.25/502/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学与人学 马克思对德国古典美学的继承与超越.pdf</title>
+		<author>18.8.25/503/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>厦门统计年鉴 1989.pdf</title>
+		<author>18.8.25/504/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>台湾社会变迁的经验 一个新兴的工业社会.pdf</title>
+		<author>18.8.25/505/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>史前宗教（法）安德列·勒鲁瓦 —— 古昂.pdf</title>
+		<author>18.8.25/506/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人的活动结构（保）尼科洛夫著；张凡琪译.pdf</title>
+		<author>18.8.25/507/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人类学研究之三 婚姻与家庭.pdf</title>
+		<author>18.8.25/508/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会科学知识200题.pdf</title>
+		<author>18.8.25/509/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会科学研究方法论 徐志明主编.pdf</title>
+		<author>18.8.25/510/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>世界上有“鬼神”吗 金振铎等编1964年01月.pdf</title>
+		<author>18.8.25/511/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>世界上有鬼神吗？.pdf</title>
+		<author>18.8.25/512/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>世界体系与资本主义 华勒斯坦（I.Wallerstein）与布贺岱（F.Braudel）的评介.pdf</title>
+		<author>18.8.25/513/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>世界古代中期宗教史.pdf</title>
+		<author>18.8.25/514/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计理论 第4分册.pdf</title>
+		<author>18.8.25/515/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计理论一般问题讲话.pdf</title>
+		<author>18.8.25/516/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计理论（苏）德鲁日宁（Н.К.Дружинин）著；甘雨农，何云章译.pdf</title>
+		<author>18.8.25/517/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计理论（苏）沃斯特利柯夫（А.М.Востриков）等著；高拱宸等译.pdf</title>
+		<author>18.8.25/518/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>欧美政教关系研究.pdf</title>
+		<author>18.8.25/519/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>欧美统计学史.pdf</title>
+		<author>18.8.25/520/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>欧美统计学派发展简史.pdf</title>
+		<author>18.8.25/521/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东与彭德怀 - 也许真理在你那边.pdf</title>
+		<author>18.8.25/522/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>普通心理学讲义 上 杨清编.pdf</title>
+		<author>18.8.25/523/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>普通逻辑 （《普通逻辑》编写组.1979.10）.pdf</title>
+		<author>18.8.25/524/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>普通逻辑基础 李廉，李君实主编.pdf</title>
+		<author>18.8.25/525/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>普通逻辑学 上海师范学院等十三所高等师范院校中文系联合编写组编写.pdf</title>
+		<author>18.8.25/526/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>普通逻辑学（第2版）.pdf</title>
+		<author>18.8.25/527/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学纲要.pdf</title>
+		<author>18.8.25/528/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学范畴概论.pdf</title>
+		<author>18.8.25/529/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学讲坛 第2辑.pdf</title>
+		<author>18.8.25/530/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学讲演集.pdf</title>
+		<author>18.8.25/531/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学论丛 11.pdf</title>
+		<author>18.8.25/532/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学论丛 5.pdf</title>
+		<author>18.8.25/533/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>实用逻辑学词典.pdf</title>
+		<author>18.8.25/534/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>实话实说丰泽园.pdf</title>
+		<author>18.8.25/535/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>实践 - 建构美学初论.pdf</title>
+		<author>18.8.25/536/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>实践与美学 —— 学习马克思主义美学论著.pdf</title>
+		<author>18.8.25/537/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>实践与自由.pdf</title>
+		<author>18.8.25/538/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学文摘 第5辑.pdf</title>
+		<author>18.8.25/539/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学文摘 第一辑.pdf</title>
+		<author>18.8.25/540/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学文献.pdf</title>
+		<author>18.8.25/541/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学文集 第1辑.pdf</title>
+		<author>18.8.25/542/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联东欧价格资料.pdf</title>
+		<author>18.8.25/543/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联东欧改革理论比较.pdf</title>
+		<author>18.8.25/544/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联东欧问题专题资料 第2期.pdf</title>
+		<author>18.8.25/545/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联中央统计局区辅导员办事处工作经验.pdf</title>
+		<author>18.8.25/546/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>破除鬼神迷信杂谈.pdf</title>
+		<author>18.8.25/547/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学 历史 理论 方法.pdf</title>
+		<author>18.8.25/548/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学的由来与发展 各国《百科全书》社会学条目释文集.pdf</title>
+		<author>18.8.25/549/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会科学争鸣大系 1949 - 1989 社会学卷.pdf</title>
+		<author>18.8.25/550/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会科学基础知识 王之榜主编 1988.01.pdf</title>
+		<author>18.8.25/551/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会科学简史 王正萍.pdf</title>
+		<author>18.8.25/552/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会经济统计基础知识 第7分册 劳动工资统计.pdf</title>
+		<author>18.8.25/553/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会调查研究方法 戴建中著.pdf</title>
+		<author>18.8.25/554/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>秦汉土地制度与阶级关系.pdf</title>
+		<author>18.8.25/555/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计原理与工业统计.pdf</title>
+		<author>18.8.25/556/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计工作重要文件汇编 第1辑.pdf</title>
+		<author>18.8.25/557/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计研究 第2辑.pdf</title>
+		<author>18.8.25/558/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译丛 第5辑.pdf</title>
+		<author>18.8.25/559/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译文专辑 第6辑 农业劳动生产率问题.pdf</title>
+		<author>18.8.25/560/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计零讯 1959.04.pdf</title>
+		<author>18.8.25/561/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美国劳动安全监察研究.pdf</title>
+		<author>18.8.25/562/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学 第3卷 上（德）黑格尔著；朱光潜译.pdf</title>
+		<author>18.8.25/563/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>生活方式问题研究资料.pdf</title>
+		<author>18.8.25/564/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>疲软的舆论监督.pdf</title>
+		<author>18.8.25/565/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>皮亚杰学说及其发展.pdf</title>
+		<author>18.8.25/566/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>相面、算命内幕.pdf</title>
+		<author>18.8.25/567/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>瞿秋白与左翼文学的中国化进程.pdf</title>
+		<author>18.8.25/568/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现代美学论纲 焦迎伏著.pdf</title>
+		<author>18.8.25/569/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现代美学问题译丛（1960 —— 1962）.pdf</title>
+		<author>18.8.25/570/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现代西方伦理学批判研究.pdf</title>
+		<author>18.8.25/571/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现代西方学术思潮通俗答问.pdf</title>
+		<author>18.8.25/572/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>外国青年问题与研究 第2集.pdf</title>
+		<author>18.8.25/573/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>天上有没有玉皇？.pdf</title>
+		<author>18.8.25/574/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>失衡的精神家园：中国民间灵魂、鬼神、命运信仰的研究与批判.pdf</title>
+		<author>18.8.25/575/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>女儿经批判.pdf</title>
+		<author>18.8.25/576/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>女工恋爱、婚姻、家庭问题通信集.pdf</title>
+		<author>18.8.25/577/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏、日、美、英劳动安全监察研究 综合报告.pdf</title>
+		<author>18.8.25/578/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏俄伦理道德观演变.pdf</title>
+		<author>18.8.25/579/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学 第1卷（德）黑格尔（G.W.F.Hegel）著；朱光潜译.pdf</title>
+		<author>18.8.25/580/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学 第1期（中国社会科学院哲学研究所美学研究室，上海文艺出版社文艺理论编辑室合编）.pdf</title>
+		<author>18.8.25/581/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学 第2卷（德）黑格尔（Georg Wilhelm Friedrich Hegel）著；朱光潜译.pdf</title>
+		<author>18.8.25/582/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学 第2期.pdf</title>
+		<author>18.8.25/583/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会心理学（苏）安德列耶娃 上海翻译出版公司.pdf</title>
+		<author>18.8.25/584/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会心理学（苏）安德列耶娃 南开大学出版社.pdf</title>
+		<author>18.8.25/585/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会科学争鸣大系 1949 - 1989 世界经济，国际关系卷.pdf</title>
+		<author>18.8.25/586/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会科学争鸣大系 1949 - 1989 政治学，法学卷.pdf</title>
+		<author>18.8.25/587/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>全国关于人道主义和异化问题讨论会暨中国历史唯物主义研究会第二届年会论文选.pdf</title>
+		<author>18.8.25/588/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>内望苏联.pdf</title>
+		<author>18.8.25/589/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>农村人民公社史.pdf</title>
+		<author>18.8.25/590/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>前进中的宁夏农村.pdf</title>
+		<author>18.8.25/591/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东文艺思想体系论稿.pdf</title>
+		<author>18.8.25/592/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东百科全书.pdf</title>
+		<author>18.8.25/593/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东研究 2011年卷.pdf</title>
+		<author>18.8.25/594/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东管理思想与管理方法.pdf</title>
+		<author>18.8.25/595/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东贺子珍在井冈山.pdf</title>
+		<author>18.8.25/596/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东思想史（第四卷）（修订本）杨超，毕剑横.pdf</title>
+		<author>18.8.25/597/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东思想宝库 中共中央党校出版社编.pdf</title>
+		<author>18.8.25/598/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东思想概论 中共湖南省委高等学校工作委员会，湖南省教育厅组编 2004.pdf</title>
+		<author>18.8.25/599/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东思想的理论创新研究.pdf</title>
+		<author>18.8.25/600/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东思想研究大系·哲学卷.pdf</title>
+		<author>18.8.25/601/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东思想论文集.pdf</title>
+		<author>18.8.25/602/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>思路、逻辑、创造方法.pdf</title>
+		<author>18.8.25/603/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>思辨的美学与自由的艺术 黑格尔美学思想引论.pdf</title>
+		<author>18.8.25/604/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>我们与这个世界的误会.pdf</title>
+		<author>18.8.25/605/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>我们仍然在仰望星空.pdf</title>
+		<author>18.8.25/606/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>我们夫妇关系为什么破裂.pdf</title>
+		<author>18.8.25/607/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方心理学文选.pdf</title>
+		<author>18.8.25/608/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方批判理论评析.pdf</title>
+		<author>18.8.25/609/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方批判美学局限研究.pdf</title>
+		<author>18.8.25/610/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方掠影 1983.pdf</title>
+		<author>18.8.25/611/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方无神论史 陈麟书编著 1993.12.pdf</title>
+		<author>18.8.25/612/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方的丑学 感性的多元取向.pdf</title>
+		<author>18.8.25/613/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西安历史统计资料汇编 1949 - 1989 第三分册.pdf</title>
+		<author>18.8.25/614/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方伦理思想主要学派概论.pdf</title>
+		<author>18.8.25/615/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方古典美学史论.pdf</title>
+		<author>18.8.25/616/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方古典美学导论.pdf</title>
+		<author>18.8.25/617/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方哲学的研究与进展.pdf</title>
+		<author>18.8.25/618/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方学术思潮论丛 第1辑.pdf</title>
+		<author>18.8.25/619/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方学术思潮论丛 第2辑.pdf</title>
+		<author>18.8.25/620/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学基础知识 曹利华著.pdf</title>
+		<author>18.8.25/621/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学基础（波兰）奥索夫基（Ossowski，S.）著；于传勤译.pdf</title>
+		<author>18.8.25/622/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学引论新编.pdf</title>
+		<author>18.8.25/623/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学思想史（苏）М.Ф.奥夫相尼科夫著；吴安迪译.pdf</title>
+		<author>18.8.25/624/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学思考录 克地著 1982年10月第1版.pdf</title>
+		<author>18.8.25/625/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计参考资料 全国先进技术经济指标 第2辑.pdf</title>
+		<author>18.8.25/626/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计和计划（苏）斯米霍夫（Б.Смехов）著；娱天译.pdf</title>
+		<author>18.8.25/627/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计学一般理论教程『苏』科兹洛夫等著.pdf</title>
+		<author>18.8.25/628/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计学原理.pdf</title>
+		<author>18.8.25/629/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计学是认识社会的有力武器 东北人民经济计划委员会统计局辑 1951.pdf</title>
+		<author>18.8.25/630/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人口原理的说明和例证（英）F.普雷斯著；对外贸易学院译.pdf</title>
+		<author>18.8.25/631/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人口原理（英）T.R.马尔萨斯著；马箕译.pdf</title>
+		<author>18.8.25/632/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人口地理与城市地理 论文集.pdf</title>
+		<author>18.8.25/633/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人口统计学（苏）波雅尔斯基（А.Я.Боярский），（苏）舒舍林（П.П.Шушерин）著；毕士林，严健译.pdf</title>
+		<author>18.8.25/634/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学 马克思主义关于社会的一般理论基础.pdf</title>
+		<author>18.8.25/635/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学原理［（南）布里舍里奇著；贾春增等译］.pdf</title>
+		<author>18.8.25/636/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学在现代社会经济发展中的应用 国际学术讨论会论文集.pdf</title>
+		<author>18.8.25/637/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学基础 观点·方法·学说.pdf</title>
+		<author>18.8.25/638/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学思想简史（英）辛格伍德.A著；李鞍阳等译.pdf</title>
+		<author>18.8.25/639/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会主义从空想到科学的发展》导读 曹玉文 1993.pdf</title>
+		<author>18.8.25/640/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会主义伦理学教程.pdf</title>
+		<author>18.8.25/641/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会主义市场经济哲学.pdf</title>
+		<author>18.8.25/642/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会主义生活方式［（苏）克里斯托斯，（苏）杜良著；王思斌译］.pdf</title>
+		<author>18.8.25/643/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会主义行为管理学纲要.pdf</title>
+		<author>18.8.25/644/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译文专辑 第7辑 资产阶级统计.pdf</title>
+		<author>18.8.25/645/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译文专辑 第8辑 积累和消费问题.pdf</title>
+		<author>18.8.25/646/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译文专辑 第9辑 抽样调查问题.pdf</title>
+		<author>18.8.25/647/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计零讯 1959.01.pdf</title>
+		<author>18.8.25/648/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计零讯 1959.03.pdf</title>
+		<author>18.8.25/649/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>沈阳统计志 1908 - 1988.pdf</title>
+		<author>18.8.25/650/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>没有鬼神 湖北省科学技术协会编.pdf</title>
+		<author>18.8.25/651/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>深圳市国民经济和社会统计资料 1985.pdf</title>
+		<author>18.8.25/652/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>潘光旦选集 第1卷.pdf</title>
+		<author>18.8.25/653/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>潘光旦选集 第1集.pdf</title>
+		<author>18.8.25/654/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学资料集 下.pdf</title>
+		<author>18.8.25/655/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学述林 第1辑.pdf</title>
+		<author>18.8.25/656/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学问题 朱狄 1982年05月第1版.pdf</title>
+		<author>18.8.25/657/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学问题讨论集 第二集.pdf</title>
+		<author>18.8.25/658/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>文化整合与先秦自然神话演变.pdf</title>
+		<author>18.8.25/659/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>文史专题研究.pdf</title>
+		<author>18.8.25/660/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>文史书目手册.pdf</title>
+		<author>18.8.25/661/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>文本 对话与人文（俄）М.巴赫金著；白春仁等译.pdf</title>
+		<author>18.8.25/662/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>文献和研究（一九八七年汇编本）.pdf</title>
+		<author>18.8.25/663/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学与美学史论集.pdf</title>
+		<author>18.8.25/664/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学专题选讲汇编.pdf</title>
+		<author>18.8.25/665/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学入门 黄德志著 1985.10.pdf</title>
+		<author>18.8.25/666/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学初论（杨安岑著）.pdf</title>
+		<author>18.8.25/667/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学十讲 全国十一所民族院校编写组编 1982年10月第1版.pdf</title>
+		<author>18.8.25/668/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>唯物史观的形成和发展史纲要.pdf</title>
+		<author>18.8.25/669/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>商业部系统统计资料1952 - 1984.pdf</title>
+		<author>18.8.25/670/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>商品的艺术形态和消费者的审美观念.pdf</title>
+		<author>18.8.25/671/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>四川省社会科学院学术文集.pdf</title>
+		<author>18.8.25/672/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>图腾主义.pdf</title>
+		<author>18.8.25/673/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人道主义、人性论和异化问题资料汇编 西北政法学院政治理论系资料室.pdf</title>
+		<author>18.8.25/674/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人道主义、人性论研究资料 第1册 1963.3.pdf</title>
+		<author>18.8.25/675/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人道主义、人性论研究资料 第2册.pdf</title>
+		<author>18.8.25/676/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人道主义、人性论研究资料 第3册 1963.4.pdf</title>
+		<author>18.8.25/677/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人道主义、人性论研究资料 第4册.pdf</title>
+		<author>18.8.25/678/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会科学论文选 1980 - 1985.pdf</title>
+		<author>18.8.25/679/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会科学论文集 第1辑 陕西师范大学编.pdf</title>
+		<author>18.8.25/680/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会管理 某些理论与实践问题（苏）奥马罗夫（Омаров，А.М.）著；王思斌等译.pdf</title>
+		<author>18.8.25/681/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会管理中的人『苏』阿法纳西耶夫著.pdf</title>
+		<author>18.8.25/682/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>世界大城市统计比较.pdf</title>
+		<author>18.8.25/683/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>世界新学科总览.pdf</title>
+		<author>18.8.25/684/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>世界现代前期宗教史.pdf</title>
+		<author>18.8.25/685/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>世界现代后期宗教史.pdf</title>
+		<author>18.8.25/686/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>世界近代中期宗教史.pdf</title>
+		<author>18.8.25/687/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计研究 第4辑.pdf</title>
+		<author>18.8.25/688/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计研究 第6辑.pdf</title>
+		<author>18.8.25/689/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计研究 第7辑.pdf</title>
+		<author>18.8.25/690/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计研究 第8辑.pdf</title>
+		<author>18.8.25/691/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东与红楼梦.pdf</title>
+		<author>18.8.25/692/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东与贺龙 - 我当你的保皇派.pdf</title>
+		<author>18.8.25/693/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东中央苏区教育实践与教育思想概论.pdf</title>
+		<author>18.8.25/694/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东人学思想.pdf</title>
+		<author>18.8.25/695/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学论丛 7.pdf</title>
+		<author>18.8.25/696/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学论丛 8.pdf</title>
+		<author>18.8.25/697/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>实践存在论的美学思考方式.pdf</title>
+		<author>18.8.25/698/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>实践美学概论 何洛，周忠厚，计永佑，赵晓光编.pdf</title>
+		<author>18.8.25/699/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>审美中介论.pdf</title>
+		<author>18.8.25/700/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>审美之维 马尔库塞美学论著集.pdf</title>
+		<author>18.8.25/701/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>审美教育问题（苏）尼·阿·德米特里耶娃.pdf</title>
+		<author>18.8.25/702/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学概要 李敬敏.pdf</title>
+		<author>18.8.25/703/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学概论 周忠厚，蒋培坤，丁子林编 1986.03.pdf</title>
+		<author>18.8.25/704/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学与社会生活.pdf</title>
+		<author>18.8.25/705/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学原理 戚廷贵主编.pdf</title>
+		<author>18.8.25/706/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学和文化学 记苏联著名的16位美学家.pdf</title>
+		<author>18.8.25/707/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学文化学论集.pdf</title>
+		<author>18.8.25/708/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学新趋势.pdf</title>
+		<author>18.8.25/709/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学简论 张松泉编著 1985.09.pdf</title>
+		<author>18.8.25/710/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学论丛 6.pdf</title>
+		<author>18.8.25/711/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学评林 第一辑.pdf</title>
+		<author>18.8.25/712/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学资料集 上.pdf</title>
+		<author>18.8.25/713/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学问题讨论集 第五集.pdf</title>
+		<author>18.8.25/714/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学问题（苏）叶戈罗夫著；刘宁，董友译.pdf</title>
+		<author>18.8.25/715/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>腾飞的希望 甘肃省第三梯队建设论文选.pdf</title>
+		<author>18.8.25/716/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏北人与上海革命运动：1921～1949.pdf</title>
+		<author>18.8.25/717/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联与东欧资料 苏联政府决议汇编 1983年上半年 1985年第2期.pdf</title>
+		<author>18.8.25/718/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联共产党第十九次代表大会与统计的任务.pdf</title>
+		<author>18.8.25/719/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联心理学论文摘要 有关教育心理学和劳动心理学的资料.pdf</title>
+		<author>18.8.25/720/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西安历史统计资料汇编 1949 - 1989 第2分册.pdf</title>
+		<author>18.8.25/721/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方学术思潮论丛 第3辑.pdf</title>
+		<author>18.8.25/722/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联国家劳动安全标准 第1辑.pdf</title>
+		<author>18.8.25/723/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联国家劳动安全标准 第4辑.pdf</title>
+		<author>18.8.25/724/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联国民经济计划学.pdf</title>
+		<author>18.8.25/725/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联当代美学.pdf</title>
+		<author>18.8.25/726/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计与政治（苏）沃宁（Б.М.Волин）撰；岳渔译.pdf</title>
+		<author>18.8.25/727/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计信息研究资料选编 1984.pdf</title>
+		<author>18.8.25/728/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计分析选编 第1辑.pdf</title>
+		<author>18.8.25/729/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计制度方法文件选编1950 - 1987.pdf</title>
+		<author>18.8.25/730/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>石兆棠文集.pdf</title>
+		<author>18.8.25/731/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>破有神论立无神论.pdf</title>
+		<author>18.8.25/732/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>破译迷信 一份关于现代迷信的报告.pdf</title>
+		<author>18.8.25/733/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>破除封建迷信 1974.01.pdf</title>
+		<author>18.8.25/734/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>破除封建迷信问答.pdf</title>
+		<author>18.8.25/735/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>破除迷信100问.pdf</title>
+		<author>18.8.25/736/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现代西方美学流派评述.pdf</title>
+		<author>18.8.25/737/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现代资产阶级伦理学 —— 幻想与现实.pdf</title>
+		<author>18.8.25/738/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现实中和艺术中的审美（苏）斯托洛维奇（Столович，Л.Н.）著；凌继尧，金亚娜译.pdf</title>
+		<author>18.8.25/739/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现实主义美学论稿.pdf</title>
+		<author>18.8.25/740/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现实问题的哲学回答.pdf</title>
+		<author>18.8.25/741/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>我们断然有救 陈独秀著.pdf</title>
+		<author>18.8.25/742/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>我国的宗教信仰自由 华文出版社 1999年.pdf</title>
+		<author>18.8.25/743/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>批判 构建 启思 福斯特生态马克思主义思想研究.pdf</title>
+		<author>18.8.25/744/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>文化巨人毛泽东（一）邓力群主编.pdf</title>
+		<author>18.8.25/745/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>斯大林传（精装）黄继锋 1998.pdf</title>
+		<author>18.8.25/746/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>无神论和宗教问题 牙含章著1964年07月.pdf</title>
+		<author>18.8.25/747/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>时代与思考 中国哲学1996.pdf</title>
+		<author>18.8.25/748/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东与科学教育（下册）邓力群.pdf</title>
+		<author>18.8.25/749/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东十二次南巡.pdf</title>
+		<author>18.8.25/750/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东外交文选.pdf</title>
+		<author>18.8.25/751/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东文化思想探析.pdf</title>
+		<author>18.8.25/752/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东选集1 - 4卷第二版讲座.pdf</title>
+		<author>18.8.25/753/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>民族哲学论文选.pdf</title>
+		<author>18.8.25/754/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>潘光旦选集 第2集.pdf</title>
+		<author>18.8.25/755/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现代基督教思想从启蒙运动到第二届梵蒂冈公会议 下.pdf</title>
+		<author>18.8.25/756/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现代西方文化思潮鉴评 青年教育热点问题研究.pdf</title>
+		<author>18.8.25/757/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>生态地批判：福斯特的生态学马克思主义思想研究.pdf</title>
+		<author>18.8.25/758/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>石兆棠文集 第2卷.pdf</title>
+		<author>18.8.25/759/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>思无涯，行有制（秦晖著）.pdf</title>
+		<author>18.8.25/760/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学 第3卷 下（德）黑格尔（G.W.F.Hegel）著；朱光潜.pdf</title>
+		<author>18.8.25/761/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学 第3期.pdf</title>
+		<author>18.8.25/762/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学 第4期.pdf</title>
+		<author>18.8.25/763/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学 第5期.pdf</title>
+		<author>18.8.25/764/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>剖析洋迷信.pdf</title>
+		<author>18.8.25/765/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>十七世纪英国的科学 技术与社会.pdf</title>
+		<author>18.8.25/766/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>十九世纪西方美学名著选 德国卷.pdf</title>
+		<author>18.8.25/767/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>十九世纪西方美学名著选 英法美卷.pdf</title>
+		<author>18.8.25/768/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东重要著作和思想形成始末.pdf</title>
+		<author>18.8.25/769/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>民主德国的政治与变革.pdf</title>
+		<author>18.8.25/770/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>民国三大报人文集 储安平集.pdf</title>
+		<author>18.8.25/771/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>民国时期河南省统计资料 下册.pdf</title>
+		<author>18.8.25/772/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>民国时期河南省统计资料（上册）.pdf</title>
+		<author>18.8.25/773/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>民国时期的政府统计工作.pdf</title>
+		<author>18.8.25/774/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>民族·历史与政治都淦.pdf</title>
+		<author>18.8.25/775/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>民族与民族学 杨堃著.pdf</title>
+		<author>18.8.25/776/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>我国人民心理卫生问题与医疗保健工作现况之检讨及政策分析.pdf</title>
+		<author>18.8.25/777/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>我国及苏联东欧经济体制改革模式研究资料选编.pdf</title>
+		<author>18.8.25/778/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方美学史论丛.pdf</title>
+		<author>18.8.25/779/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方美学史论丛续编.pdf</title>
+		<author>18.8.25/780/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计学是认识社会的有力武器 卡兹洛夫等著；梁天等译 1951.11.pdf</title>
+		<author>18.8.25/781/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计工作 第4选辑.pdf</title>
+		<author>18.8.25/782/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计工作 第六选辑.pdf</title>
+		<author>18.8.25/783/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人口问题资料 商务印书馆编辑部编 1962.04.pdf</title>
+		<author>18.8.25/784/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人口：中国的悬剑（何清涟著）.pdf</title>
+		<author>18.8.25/785/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人是美的（苏）克留科夫斯基著；刘献洲等译.pdf</title>
+		<author>18.8.25/786/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人权：虚幻与现实.pdf</title>
+		<author>18.8.25/787/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学手册 苏联科学院社会学研究所著.pdf</title>
+		<author>18.8.25/788/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学文选 四川省社会科学院社会学研究所编.pdf</title>
+		<author>18.8.25/789/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学方法简论（李冬民著）.pdf</title>
+		<author>18.8.25/790/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学概论 张乐宁等编著 1986.12.pdf</title>
+		<author>18.8.25/791/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计零讯 1959.06.pdf</title>
+		<author>18.8.25/792/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计零讯 1959.07 2.pdf</title>
+		<author>18.8.25/793/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计零讯 1959.07.pdf</title>
+		<author>18.8.25/794/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计零讯 1959.08.pdf</title>
+		<author>18.8.25/795/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计零讯 1959.11.pdf</title>
+		<author>18.8.25/796/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美 艺术 时代 第2辑.pdf</title>
+		<author>18.8.25/797/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美·艺术·时代 丛刊 2.pdf</title>
+		<author>18.8.25/798/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>潘光旦选集 第3集.pdf</title>
+		<author>18.8.25/799/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>潘光旦选集 第4卷.pdf</title>
+		<author>18.8.25/800/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>潘梓年文集.pdf</title>
+		<author>18.8.25/801/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>热爱我们的统计工作.pdf</title>
+		<author>18.8.25/802/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>王学文《资本论》研究文集.pdf</title>
+		<author>18.8.25/803/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>王若飞文集.pdf</title>
+		<author>18.8.25/804/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>现代世界论理学.pdf</title>
+		<author>18.8.25/805/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学问题讨论集.pdf</title>
+		<author>18.8.25/806/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学问题讨论集（六）.pdf</title>
+		<author>18.8.25/807/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学问题讨论集（第三集）.pdf</title>
+		<author>18.8.25/808/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学问题讨论集（第四集）.pdf</title>
+		<author>18.8.25/809/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>斯大林社会主义思想研究 顾海良主编 2008.pdf</title>
+		<author>18.8.25/810/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>斯大林社会主义思想研究.pdf</title>
+		<author>18.8.25/811/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>无产阶级世界观和资产阶级世界观的斗争 贵州人民出版社 1959年.pdf</title>
+		<author>18.8.25/812/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学原理 蔡仪主编 1985.07.pdf</title>
+		<author>18.8.25/813/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学原理学习参考资料 上.pdf</title>
+		<author>18.8.25/814/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学原理学习指导书.pdf</title>
+		<author>18.8.25/815/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学原理提纲.pdf</title>
+		<author>18.8.25/816/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学原理（意）克罗齐（B.Croce）著；朱光潜译.pdf</title>
+		<author>18.8.25/817/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学史纲（苏）舍斯塔科夫著；樊莘森等译 1986.10.pdf</title>
+		<author>18.8.25/818/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学史（英）鲍桑葵著；张今译.pdf</title>
+		<author>18.8.25/819/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>圣经是怎样一部书.pdf</title>
+		<author>18.8.25/820/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>圣经是怎样一部书（苏）雅罗斯拉夫斯基（Ярославский，Ем.）著；谭善余译.pdf</title>
+		<author>18.8.25/821/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>圣经是怎样一部书（苏）雅罗斯拉夫斯基，Е.М.著；谭善余译.pdf</title>
+		<author>18.8.25/822/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>外国主要城市人口参考资料.pdf</title>
+		<author>18.8.25/823/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>外国战争史和军事学术史.pdf</title>
+		<author>18.8.25/824/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>外国社会保障制度概况.pdf</title>
+		<author>18.8.25/825/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>外国美学 第1辑.pdf</title>
+		<author>18.8.25/826/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会经济统计学基础 汪贤进等著.pdf</title>
+		<author>18.8.25/827/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会经济统计辞典.pdf</title>
+		<author>18.8.25/828/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会认识和社会管理（苏）波波夫（Попова，С.И.），（苏）休休卡洛夫（Сюсюкалова，Г.И.）著；赵承先译.pdf</title>
+		<author>18.8.25/829/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会调查概要.pdf</title>
+		<author>18.8.25/830/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏维埃政权二十年 统计资料汇编.pdf</title>
+		<author>18.8.25/831/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联与东欧资料 - 1981年苏联和东欧六国经济和社会发展情况 1984年第2期.pdf</title>
+		<author>18.8.25/832/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联与东欧资料 1984年第3期.pdf</title>
+		<author>18.8.25/833/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联与东欧资料 1985年第3期.pdf</title>
+		<author>18.8.25/834/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人道主义、人性论研究资料 第五辑.pdf</title>
+		<author>18.8.25/835/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人道主义思想论库.pdf</title>
+		<author>18.8.25/836/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人，在历史漩涡中.pdf</title>
+		<author>18.8.25/837/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>什么是无产阶级世界观 什么是资产阶级世界观.pdf</title>
+		<author>18.8.25/838/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>什么是统计（苏）古列维齐（С.М.Гуревич）著；铁大章等译.pdf</title>
+		<author>18.8.25/839/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>庭院深深钓鱼台我给江青当秘书.pdf</title>
+		<author>18.8.25/840/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>微观经济学批判 余斌著.pdf</title>
+		<author>18.8.25/841/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>思想的足印 论文集.pdf</title>
+		<author>18.8.25/842/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译文专辑 第1辑.pdf</title>
+		<author>18.8.25/843/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译文专辑 第2辑.pdf</title>
+		<author>18.8.25/844/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译文专辑 第3辑.pdf</title>
+		<author>18.8.25/845/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译文专辑 第5辑 劳动生产率问题.pdf</title>
+		<author>18.8.25/846/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>民族特征论集.pdf</title>
+		<author>18.8.25/847/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>民族研究论文选 第1辑.pdf</title>
+		<author>18.8.25/848/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>民族研究译丛 2.pdf</title>
+		<author>18.8.25/849/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>求学集 关锋著 上海人民出版社 1962年.pdf</title>
+		<author>18.8.25/850/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>求索中国：“文革”前十年史.pdf</title>
+		<author>18.8.25/851/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>史论集（张军孝著）.pdf</title>
+		<author>18.8.25/852/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>同斯大林在一起 回忆录.pdf</title>
+		<author>18.8.25/853/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>名词概念汇编 方舟编 1986.10.pdf</title>
+		<author>18.8.25/854/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>吴于廑学术论著自选集.pdf</title>
+		<author>18.8.25/855/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会科学争鸣大系 1949 - 1989 科学社会主义，国际共产主义运动史卷.pdf</title>
+		<author>18.8.25/856/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会科学争鸣辑要.pdf</title>
+		<author>18.8.25/857/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会科学史 许志峰.pdf</title>
+		<author>18.8.25/858/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>女职工劳动保护文件汇编.pdf</title>
+		<author>18.8.25/859/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>孙叔平文集 第1卷.pdf</title>
+		<author>18.8.25/860/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>宁夏伊斯兰教派概要.pdf</title>
+		<author>18.8.25/861/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>宁夏回族自治区 经济社会发展统计资料（1949 - 1983）.pdf</title>
+		<author>18.8.25/862/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学意识形态.pdf</title>
+		<author>18.8.25/863/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学批判论文集.pdf</title>
+		<author>18.8.25/864/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学拾穗集.pdf</title>
+		<author>18.8.25/865/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学探索.pdf</title>
+		<author>18.8.25/866/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学散步.pdf</title>
+		<author>18.8.25/867/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>世界近代前期宗教史.pdf</title>
+		<author>18.8.25/868/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>世界近代后期宗教史.pdf</title>
+		<author>18.8.25/869/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>世纪之问 来自知识界的声音.pdf</title>
+		<author>18.8.25/870/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>世纪末的思考 著名学者访谈录.pdf</title>
+		<author>18.8.25/871/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>为人道主义辩护 王若水著.pdf</title>
+		<author>18.8.25/872/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计论文选 东北人民经济计划委员会统计局编.pdf</title>
+		<author>18.8.25/873/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译丛 第1辑.pdf</title>
+		<author>18.8.25/874/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译丛 第2辑.pdf</title>
+		<author>18.8.25/875/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译丛 第3辑.pdf</title>
+		<author>18.8.25/876/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计译丛 第4辑.pdf</title>
+		<author>18.8.25/877/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东卫生思想研究论丛（上册）.pdf</title>
+		<author>18.8.25/878/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东和世界风云人物.pdf</title>
+		<author>18.8.25/879/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东和他的顾问.pdf</title>
+		<author>18.8.25/880/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东哲学分支学科研究.pdf</title>
+		<author>18.8.25/881/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>毛泽东哲学思想研究 杨焕章 1983.pdf</title>
+		<author>18.8.25/882/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学论著 初编 蔡仪著.pdf</title>
+		<author>18.8.25/883/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学论著初编 下.pdf</title>
+		<author>18.8.25/884/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学论辩.pdf</title>
+		<author>18.8.25/885/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学论集 靳绍彤.pdf</title>
+		<author>18.8.25/886/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>山东省社会发展统计资料汇编（1978 - 1987）.pdf</title>
+		<author>18.8.25/887/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>山西省社会经济统计提要 1983.pdf</title>
+		<author>18.8.25/888/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>巫术是怎样骗人的.pdf</title>
+		<author>18.8.25/889/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>巫术科学宗教与神话 1936.pdf</title>
+		<author>18.8.25/890/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学概论胡连元1988.pdf</title>
+		<author>18.8.25/891/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学概论高等专业函授教材.pdf</title>
+		<author>18.8.25/892/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学概论（法）列斐伏尔（H.Lefebvre）著；杨成寅，姚岳山译.pdf</title>
+		<author>18.8.25/893/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学浅谈.pdf</title>
+		<author>18.8.25/894/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联德育心理研究.pdf</title>
+		<author>18.8.25/895/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联德育心理论集.pdf</title>
+		<author>18.8.25/896/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联心理学会议上的报告 1953年.pdf</title>
+		<author>18.8.25/897/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联心理学科学 第1卷.pdf</title>
+		<author>18.8.25/898/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>苏联心理学第一届代表大会报告提纲.pdf</title>
+		<author>18.8.25/899/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>挑剔经典 - 悼念上帝《圣经旧约》批判.pdf</title>
+		<author>18.8.25/900/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>探讨与争鸣 徐殿玖 1990.pdf</title>
+		<author>18.8.25/901/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>提倡调查研究.pdf</title>
+		<author>18.8.25/902/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>文化唯物主义.pdf</title>
+		<author>18.8.25/903/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学 第6期.pdf</title>
+		<author>18.8.25/904/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学 第7期.pdf</title>
+		<author>18.8.25/905/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学 问题和争论 美学论争的方法论原则.pdf</title>
+		<author>18.8.25/906/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学 问题和争论（苏）布罗夫（Буров，А.И.）著；凌继尧译.pdf</title>
+		<author>18.8.25/907/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>十年内乱与抗争.pdf</title>
+		<author>18.8.25/908/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>十年来的中国科学 - 心理学 1949 - 1959.pdf</title>
+		<author>18.8.25/909/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>十论“百家争鸣”1961 - 1992.pdf</title>
+		<author>18.8.25/910/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>千秋功过，谁人评说？ - 西方“斯大林学”研究.pdf</title>
+		<author>18.8.25/911/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>我的父亲与红七军.pdf</title>
+		<author>18.8.25/912/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>我经历的北平地下党.pdf</title>
+		<author>18.8.25/913/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>所谓中产英国《金融时报》中文网对中国中产阶层的调查.pdf</title>
+		<author>18.8.25/914/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方美学家论美和美感.pdf</title>
+		<author>18.8.25/915/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方美学简史.pdf</title>
+		<author>18.8.25/916/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方美学简史李醒尘.pdf</title>
+		<author>18.8.25/917/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方美学简史李醒尘1988.pdf</title>
+		<author>18.8.25/918/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方美学简论.pdf</title>
+		<author>18.8.25/919/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>西方美学论纲.pdf</title>
+		<author>18.8.25/920/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计工作为政治、为生产服务.pdf</title>
+		<author>18.8.25/921/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计工作文件选编.pdf</title>
+		<author>18.8.25/922/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计工作跃进画册.pdf</title>
+		<author>18.8.25/923/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>统计工作跃进经验.pdf</title>
+		<author>18.8.25/924/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人民论坛选粹钱湜辛，于宁主.pdf</title>
+		<author>18.8.25/925/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人生最大的快乐是什么.pdf</title>
+		<author>18.8.25/926/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人的一生应当怎样度过 谈理想、志气和艰苦奋斗.pdf</title>
+		<author>18.8.25/927/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>人的发现 马丁·路德与宗教改革.pdf</title>
+		<author>18.8.25/928/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学概论 李斗万著 1987.10.pdf</title>
+		<author>18.8.25/929/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学概论 试讲本 天津人民出版社 1984.pdf</title>
+		<author>18.8.25/930/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学概论参考资料.pdf</title>
+		<author>18.8.25/931/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>社会学概论（杨心恒，宗力著）.pdf</title>
+		<author>18.8.25/932/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学难题新探 邱宗敏著.pdf</title>
+		<author>18.8.25/933/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美学（苏）鲍列夫（Борев，Ю.Б.）著；乔修业，常谢枫译 1986.02.pdf</title>
+		<author>18.8.25/934/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>美的研究与欣赏 丛刊 1982年 第1辑 总第1辑.pdf</title>
+		<author>18.8.25/935/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>无产阶级世界观和资产阶级世界观的斗争 辽宁人民出版社 1960年.pdf</title>
+		<author>18.8.25/936/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>无产阶级人生观教学提纲 中国人民解放军昆明陆军学校马列教研室编 1982.12.pdf</title>
+		<author>18.8.25/937/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>无神论与宗教研究论丛.pdf</title>
+		<author>18.8.25/938/2018.8/</author>
+		<genre>中文</genre>
+	</book>
+	<book>
+		<title>无神论和宗教问题 1964年07月.pdf</title>
+		<author>18.8.25/939/2018.8/</author>
+		<genre>中文</genre>
+	</book>
 </books>
